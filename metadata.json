@@ -1,0 +1,6 @@
+{
+  "name": "Al-Hanyouk",
+  "description": "لعبة ذكاء اجتماعي جماعية محلية رائعة بدون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

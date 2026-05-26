@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Full Moon Background inside the center -->
+    <path
+        android:fillColor="#9E0B0B"
+        android:pathData="M54,54m-34,0a34,34 0,1 1,68 0a34,34 0,1 1,-68 0" />
+
+    <!-- Beautiful Stylized Wolf / Werewolf Facing Front in High Contrast Black/Charcoal -->
+    <path
+        android:fillColor="#121214"
+        android:pathData="M54,26 L62,40 L74,38 L68,48 L54,42 L40,48 L34,38 L46,40 Z" />
+    
+    <!-- Inner snout and ears of the werewolf -->
+    <path
+        android:fillColor="#121214"
+        android:pathData="M54,40 L64,52 L62,56 L54,64 L46,56 L44,52 Z" />
+        
+    <!-- Stylized Wolf Cheeks and Neck fur -->
+    <path
+        android:fillColor="#121214"
+        android:pathData="M44,52 L30,58 L32,68 L42,74 L54,82 L66,74 L76,68 L78,58 L64,52 Z" />
+
+    <!-- Glowing Evil Wolf Eyes in Crisp White/Red to pop out of the dark face -->
+    <!-- Left Eye -->
+    <path
+        android:fillColor="#FF3B30"
+        android:pathData="M45,49 L49,51 L44,53 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,50 L48,51 L45,52 Z" />
+
+    <!-- Right Eye -->
+    <path
+        android:fillColor="#FF3B30"
+        android:pathData="M63,49 L59,51 L64,53 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,50 L60,51 L63,52 Z" />
+
+    <!-- Wolf nose highlighted in subtle dark ash -->
+    <path
+        android:fillColor="#2C2C2E"
+        android:pathData="M52,62 L56,62 L54,65 Z" />
+</vector>
